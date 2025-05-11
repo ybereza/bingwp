@@ -1,4 +1,4 @@
-module ybereza.github.com/bingwp
+module github.com/ybereza/bingwp
 
 go 1.24.2
 
